@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+}
+
+#todo{
+	width: 100%;
+	height: auto;
+	background: blue;
+}
+
+#izquierdo{
+	height: 630px;
+	width: 25%;
+	background: chartreuse;
+	float: left;
+}
+
+#Mapa{
+	height: 630px;
+	width: 75%;
+	background: chocolate;
+	float: right;
+	background: url(mapa.PNG);
+}
+
+#logo{
+	background: url(fondo1.jpg);
+	height: 17%;
+}
